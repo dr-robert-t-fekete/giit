@@ -1,0 +1,11 @@
+body {
+	background-color: #a3bfdf;
+}
+
+h1 {
+	background-color: pink; /* Rózsaszín háttér */
+	border: 2px solid darkblue; /* Sötétkék keret */
+	border-radius: 10px; /* Lekerekített sarkok */
+	padding: 15px; /* Belső térköz a tartalom és a keret között */
+	color: darkblue; /* Szöveg színe (opcionális) */
+}
